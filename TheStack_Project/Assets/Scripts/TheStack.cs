@@ -120,7 +120,7 @@ public class TheStack : MonoBehaviour
 
             GameObject go = this.transform.GetChild(childCount - i).gameObject;  //뒤에 있는 블록부터 가져오기
 
-            if (go.name.Equals("rubble")) //rubble 블록은 이미 떨어진 블록이므로 제외
+            if (go.name.Contains("Rubble")) //rubble 블록은 이미 떨어진 블록이므로 제외
                 continue;
             
             Rigidbody rigid = go.AddComponent<Rigidbody>();  //물리 적용
