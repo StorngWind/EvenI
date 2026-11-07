@@ -1,0 +1,7 @@
+Noto Sans CJK KR Regular — upstream unmodified OTF
+Source: https://github.com/notofonts/noto-cjk/tree/main/Sans/OTF/Korean
+Download: https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/OTF/Korean/NotoSansCJKkr-Regular.otf
+License: OFL.txt (SIL Open Font License 1.1; upstream Sans/LICENSE)
+Retrieved: 2026-10-22
+SHA-256: 6bcb2a0703aa137e874fc2dffa85f6c21ba9a67fa329e81b8c801663af7e992a
+Unmodified font data included for Korean rendering on mobile. No OS font files copied.
